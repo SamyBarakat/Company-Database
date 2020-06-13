@@ -18,7 +18,6 @@ public class UserDatabaseApp {
       int numOfUsers = sc.nextInt();
       User[] users = new User[numOfUsers];
       
-      
       // We create a new User object everytime we go through the loop
       
       for (int i = 0; i < users.length; i++) {
